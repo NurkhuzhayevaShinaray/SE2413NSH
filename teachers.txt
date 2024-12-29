@@ -1,0 +1,5 @@
+Severus Snape 51 Male Math 7 800000
+Albus Dumbledore 71 Male Philosophy 25 1500000
+Minerva McGonagall 62 Female Sociology 17 1100000
+Bellatrix Lestrange 35 Female Programming 3 570000
+Sirius Black 49 Male Physics 9 750000
